@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d619200-311b-4894-9103-e50afbbe1a0d" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/UTRFS_CNN_Update$patch_quality.coverage" NAME="patch_quality Coverage Results" MODIFIED="1542031080422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTRFS_CNN_Update$utils.coverage" NAME="utils Coverage Results" MODIFIED="1542703370612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTRFS_CNN_Update$predict_yang.coverage" NAME="predict-yang Coverage Results" MODIFIED="1542987356904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTRFS_CNN_new_M_L$utils.coverage" NAME="utils Coverage Results" MODIFIED="1557067500946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$utils.coverage" NAME="utils Coverage Results" MODIFIED="1557555207799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTRFS_CNN_Update$train_yang.coverage" NAME="train-yang Coverage Results" MODIFIED="1542956164166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTRFS_CNN_Update$main_yang.coverage" NAME="main-yang Coverage Results" MODIFIED="1542986251821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTRFS_CNN_Update$maingau.coverage" NAME="maingau Coverage Results" MODIFIED="1540216685770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$predict_ML.coverage" NAME="predict_ML Coverage Results" MODIFIED="1557578141990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTRFS_CNN_new_M_L$main_yang.coverage" NAME="main-yang Coverage Results" MODIFIED="1557130469603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$main_yang.coverage" NAME="main-yang Coverage Results" MODIFIED="1557577755569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UTRFS_CNN_new_M_L$predict_ML.coverage" NAME="predict_ML Coverage Results" MODIFIED="1557132995889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OiL8eEP15pLrEvXlzfRJV6IxTN" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportQtDebugging" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.predict">
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NR-SAR-DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NR-SAR-DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.predict" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d619200-311b-4894-9103-e50afbbe1a0d" name="Default" comment="" />
+      <created>1537101635120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537101635120</updated>
+      <workItem from="1557580807895" duration="4503000" />
+      <workItem from="1557589188563" duration="4000" />
+      <workItem from="1557627172808" duration="8436000" />
+      <workItem from="1557710623071" duration="8221000" />
+      <workItem from="1557730691996" duration="4842000" />
+      <workItem from="1557736896602" duration="3389000" />
+      <workItem from="1557753283335" duration="599000" />
+      <workItem from="1557801625900" duration="2232000" />
+      <workItem from="1557883313554" duration="27250000" />
+      <workItem from="1558097399743" duration="10566000" />
+      <workItem from="1558186265952" duration="22063000" />
+      <workItem from="1558488742294" duration="7136000" />
+      <workItem from="1558517242800" duration="103000" />
+      <workItem from="1558622657943" duration="6395000" />
+      <workItem from="1558661526011" duration="5439000" />
+      <workItem from="1558713228582" duration="621000" />
+      <workItem from="1558716751184" duration="14000" />
+      <workItem from="1558719460604" duration="15441000" />
+      <workItem from="1558946660901" duration="3421000" />
+      <workItem from="1558952664827" duration="33119000" />
+      <workItem from="1559431564277" duration="1349000" />
+      <workItem from="1559673141549" duration="726000" />
+      <workItem from="1559722871371" duration="1157000" />
+      <workItem from="1559725925224" duration="622000" />
+      <workItem from="1559761838807" duration="717000" />
+      <workItem from="1560233106593" duration="670000" />
+      <workItem from="1560242333294" duration="935000" />
+      <workItem from="1560261136953" duration="15070000" />
+      <workItem from="1560349598396" duration="7222000" />
+      <workItem from="1560418628301" duration="18275000" />
+      <workItem from="1560653715398" duration="5025000" />
+      <workItem from="1560673212124" duration="5672000" />
+      <workItem from="1560738464334" duration="18000" />
+      <workItem from="1560773795829" duration="10625000" />
+      <workItem from="1560871517237" duration="1336000" />
+      <workItem from="1560911957229" duration="3436000" />
+      <workItem from="1561080309726" duration="1103000" />
+      <workItem from="1561119997271" duration="7115000" />
+      <workItem from="1561216443468" duration="8414000" />
+      <workItem from="1561279086267" duration="1420000" />
+      <workItem from="1561791562168" duration="15141000" />
+      <workItem from="1561955715226" duration="10461000" />
+      <workItem from="1562232801667" duration="5308000" />
+      <workItem from="1562634568439" duration="5729000" />
+      <workItem from="1563157583712" duration="430000" />
+      <workItem from="1563158046355" duration="15000" />
+      <workItem from="1563289846967" duration="3327000" />
+      <workItem from="1563460591370" duration="26569000" />
+      <workItem from="1563755034954" duration="651000" />
+      <workItem from="1563896926998" duration="746000" />
+      <workItem from="1564057821698" duration="3042000" />
+      <workItem from="1564455405738" duration="598000" />
+      <workItem from="1564547387783" duration="653000" />
+      <workItem from="1564585932487" duration="8202000" />
+      <workItem from="1564644411311" duration="4676000" />
+      <workItem from="1564973726469" duration="22000" />
+      <workItem from="1565851538230" duration="2473000" />
+      <workItem from="1566277466157" duration="5608000" />
+      <workItem from="1566736515238" duration="2011000" />
+      <workItem from="1572186585925" duration="5960000" />
+      <workItem from="1573113026413" duration="2473000" />
+      <workItem from="1574258545247" duration="1402000" />
+      <workItem from="1574730998324" duration="2264000" />
+      <workItem from="1575986973196" duration="830000" />
+      <workItem from="1579265209156" duration="4082000" />
+      <workItem from="1580013398357" duration="21000" />
+      <workItem from="1583056295104" duration="6450000" />
+      <workItem from="1583117023301" duration="39000" />
+      <workItem from="1587790610686" duration="2931000" />
+      <workItem from="1587800818230" duration="385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587801214563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587801214563" />
+    <state x="705" y="298" key="FileChooserDialogImpl" timestamp="1583117059232">
+      <screen x="0" y="0" width="1851" height="1080" />
+    </state>
+    <state x="705" y="298" key="FileChooserDialogImpl/0.0.1851.1080@0.0.1851.1080" timestamp="1583117059232" />
+    <state width="1877" height="322" key="GridCell.Tab.0.bottom" timestamp="1587801163995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1808" height="166" key="GridCell.Tab.0.bottom/0.0.1851.1080@0.0.1851.1080" timestamp="1583117004541" />
+    <state width="1877" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587801163995" />
+    <state width="1877" height="322" key="GridCell.Tab.0.center" timestamp="1587801163994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1808" height="166" key="GridCell.Tab.0.center/0.0.1851.1080@0.0.1851.1080" timestamp="1583117004540" />
+    <state width="1877" height="322" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587801163994" />
+    <state width="1877" height="322" key="GridCell.Tab.0.left" timestamp="1587801163994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1808" height="166" key="GridCell.Tab.0.left/0.0.1851.1080@0.0.1851.1080" timestamp="1583117004540" />
+    <state width="1877" height="322" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587801163994" />
+    <state width="1877" height="322" key="GridCell.Tab.0.right" timestamp="1587801163994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1808" height="166" key="GridCell.Tab.0.right/0.0.1851.1080@0.0.1851.1080" timestamp="1583117004541" />
+    <state width="1877" height="322" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587801163994" />
+    <state width="1808" height="362" key="GridCell.Tab.1.bottom" timestamp="1583117004535">
+      <screen x="0" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1808" height="362" key="GridCell.Tab.1.bottom/0.0.1851.1080@0.0.1851.1080" timestamp="1583117004535" />
+    <state width="1808" height="362" key="GridCell.Tab.1.center" timestamp="1583117004535">
+      <screen x="0" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1808" height="362" key="GridCell.Tab.1.center/0.0.1851.1080@0.0.1851.1080" timestamp="1583117004535" />
+    <state width="1808" height="362" key="GridCell.Tab.1.left" timestamp="1583117004535">
+      <screen x="0" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1808" height="362" key="GridCell.Tab.1.left/0.0.1851.1080@0.0.1851.1080" timestamp="1583117004535" />
+    <state width="1808" height="362" key="GridCell.Tab.1.right" timestamp="1583117004535">
+      <screen x="0" y="0" width="1851" height="1080" />
+    </state>
+    <state width="1808" height="362" key="GridCell.Tab.1.right/0.0.1851.1080@0.0.1851.1080" timestamp="1583117004535" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1587801054213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587801054213" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lst_eval.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="rmse" />
+        <watch expression="t1" />
+        <watch expression="tt1" />
+        <watch expression="hrinput2[0,0]" language="Python" />
+        <watch expression="hrinput2[0,1]" language="Python" />
+        <watch expression="fusep2[43,12]" language="Python" />
+        <watch expression="fusep1" />
+        <watch expression="fusep1[43,12]" language="Python" />
+        <watch expression="p_fusion[43,12]" language="Python" />
+        <watch expression="p_fusion_t[43,12]" language="Python" />
+        <watch expression="hrinput1" />
+        <watch expression="hrinput2" />
+        <watch expression="hrinput2[43,12]" language="Python" />
+        <watch expression="hrinput1[43,12]" language="Python" />
+        <watch expression="__py_debug_temp_var_1211774954" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$lst_eval.coverage" NAME="lst_eval Coverage Results" MODIFIED="1560436170250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$utils.coverage" NAME="utils Coverage Results" MODIFIED="1557715583420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$cleanref_main.coverage" NAME="cleanref_main Coverage Results" MODIFIED="1579331432365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$predict_ML.coverage" NAME="predict_ML Coverage Results" MODIFIED="1583116419488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$main_2times.coverage" NAME="main_2times Coverage Results" MODIFIED="1583069745065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$main_1times.coverage" NAME="main_1times Coverage Results" MODIFIED="1561217029665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NR_SAR_DL$predict_ML.coverage" NAME="predict_ML Coverage Results" MODIFIED="1587792343605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$main_yang.coverage" NAME="main-yang Coverage Results" MODIFIED="1560927535824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NR_SAR_DL$predict.coverage" NAME="predict Coverage Results" MODIFIED="1587801248706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NR_SAR_DL$train.coverage" NAME="train Coverage Results" MODIFIED="1587801163984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$main_2times_nocrop.coverage" NAME="main_2times_nocrop Coverage Results" MODIFIED="1574258695694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$calparas.coverage" NAME="calparas Coverage Results" MODIFIED="1564364122529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SAR_Denoise_V1$main2times_iter.coverage" NAME="main2times_iter Coverage Results" MODIFIED="1564644428361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>p_fusion_t[43,12]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p_fusion[43,12]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fusep1[43,12]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hrinput1[43,12]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hrinput2[43,12]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fusep2[43,12]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hrinput2[0,1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hrinput2[0,0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
